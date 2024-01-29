@@ -1,2 +1,2 @@
-# Python-Project-1
+# Python-Project-Stock-Performance
 Analysing Stock Performance. 
